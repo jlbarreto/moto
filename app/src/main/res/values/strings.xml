@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Checkout</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="customer_label">Cliente:</string>
+    <string name="zone_label">Zona:</string>
+    <string name="app_logo">App Logo</string>
+    <string name="version">v1.6</string>
+    <string name="act_login">Iniciar Sesión</string>
+    <string name="order_detail_label">Detalle del pedido:</string>
+    <string name="restaurant_label">Restaurante:</string>
+    <string name="change_label">Cambio:</string>
+    <string name="settings">Configuraciones</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="error">Error</string>
+    <string name="destiny">Destino:</string>
+    <string name="restaurant">Restaurante</string>
+    <string name="customer">Cliente</string>
+    <string name="change">Cambio</string>
+    <string name="no_orders">No hay ordenes entregadas</string>
+    <string name="no_orders_assigned">No tienes ordenes asignadas</string>
+    <string name="orders_completed">Ordenes entregadas</string>
+    <string name="ignore">Ignorar</string>
+    <string name="gps_network_settings">Configuración</string>
+
+    <!--ACTION BUTTON LABELS-->
+    <string name="accept_order_btn">Aceptar Pedido {fa-arrow-right}</string>
+    <string name="order_shipped_btn">Pedido recogido {fa-arrow-right}</string>
+    <string name="order_complete_btn">Completar Pedido</string>
+    <string name="order_reject_btn">Pedido rechazado</string>
+    <string name="login_btn">Entrar</string>
+
+    <!-- FONT ICONS -->
+    <string name="icon_flag">{fa-flag-checkered}</string>
+    <string name="icon_shopping_cart">{fa-shopping-cart}</string>
+    <string name="icon_map_marker">{fa-map-marker}</string>
+
+    <!--ACTION BAR BUTTONS-->
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_logout">Cerrar sesión</string>
+
+    <!--ALERT MESSAGES-->
+    <string name="login_error">Usuario y/o contraseña invalido.</string>
+    <string name="push_title">PidaFacil</string>
+    <string name="push_content">Gracias por tu compra ¡Buen provecho!</string>
+    <string name="push_order_picked">Tu pedido acaba de ser despachado y está en camino</string>
+    <string name="dialog_reason_txt">Escriba la razon por la cual es rechazada la orden.</string>
+    <string name="action_myorders">Ordenes entregadas</string>
+    <string name="gps_network_not_enabled">Para continuar se necesita acceder a tu ubicación. Activa el GPS.</string>
+    <string name="no_internet_available">Para continuar debes tener una conexión a Internet. Activa los servicios de datos o conéctate a una red Wi-Fi con Internet.</string>
+
+    <!--ALERT TITLES-->
+    <string name="no_gps_title">Servicios de ubicación inhabilitados</string>
+    <string name="no_internet_title">Sin conexión a Internet</string>
+
+    <!--APPBOY EVENTS-->
+    <string name="appboy_no_internet">NO INTERNET</string>
+    <string name="appboy_no_gps">NO GPS</string>
+    <string name="fa_credit_card">{fa-credit-card}</string>
+    <string name="customer_phone_label">Teléfono: </string>
+
+</resources>

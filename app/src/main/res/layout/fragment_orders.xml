@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@color/main_background"
+    android:orientation="vertical">
+
+    <com.github.rahatarmanahmed.cpv.CircularProgressView
+        app:cpv_indeterminate="true"
+        android:id="@+id/loading_"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        app:cpv_color="@color/salmon"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rec_orders_"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+    <TextView
+        android:id="@+id/message_"
+        android:textColor="@color/title"
+        android:textSize="18sp"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        />
+</LinearLayout>

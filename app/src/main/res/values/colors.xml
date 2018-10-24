@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_app_color">#cf4647</color>
+    <color name="main_background">#fafaf5</color>
+    <color name="order_customer_name">#333333</color>
+    <color name="text_not_important">#5e5e5e</color>
+    <color name="corner_gray">#cccccc</color>
+    <color name="title">#000000</color>
+    <color name="subtitle">#212121</color>
+    <color name="red_icon">#e74c3c</color>
+    <color name="salmon">#eb663b</color>
+    <color name="salmon_medium">#c8eb7b59</color>
+    <color name="salmon_low">#9beb7b59</color>
+    <color name="green_action">#8cdd22</color>
+    <color name="green_action_pressed">#67aa20</color>
+    <color name="light">#fafafa</color>
+    <color name="white">#fff</color>
+    <color name="red_title">#cf4647</color>
+    <color name="blue_action">#548fef</color>
+    <color name="blue_action_pressed">#3763a2</color>
+    <color name="red_action">#cf4647</color>
+    <color name="red_action_pressed">#a93a3b</color>
+</resources>
